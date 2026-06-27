@@ -1,0 +1,151 @@
+medicine_id,medicine_name,type,price,manufacturer
+1,Lisinopril 100mg,Tablet,373.36,Dr. Reddy
+2,Cetirizine 100mg,Tablet,341.58,Sun Pharma
+3,Cephalexin 250mg,Tablet,24.6,Dr. Reddy
+4,Cetirizine 500mg,Ointment,23.0,Dr. Reddy
+5,Levothyroxine 500mg,Ointment,215.56,Zydus
+6,Cephalexin 250mg,Tablet,381.82,Lupin
+7,Levothyroxine 250mg,Syrup,146.16,Dr. Reddy
+8,Montelukast 250mg,Tablet,55.45,Sun Pharma
+9,Metoprolol 250mg,Ointment,139.62,Cipla
+10,Albuterol 250mg,Ointment,71.16,Abbott
+11,Ibuprofen 500mg,Syrup,416.41,Alkem
+12,Cephalexin 100mg,Tablet,32.45,Dr. Reddy
+13,Montelukast 250mg,Tablet,429.11,Sun Pharma
+14,Gabapentin 250mg,Injection,321.49,Alkem
+15,Omeprazole 250mg,Syrup,112.66,Mankind
+16,Levothyroxine 500mg,Tablet,308.47,Lupin
+17,Ciprofloxacin 500mg,Capsule,90.07,Abbott
+18,Pantoprazole 500mg,Ointment,117.61,Alkem
+19,Prednisone 100mg,Capsule,412.68,Alkem
+20,Gabapentin 250mg,Tablet,113.38,Alkem
+21,Azithromycin 500mg,Injection,203.86,Zydus
+22,Atorvastatin 250mg,Capsule,130.85,Mankind
+23,Albuterol 500mg,Injection,449.93,Abbott
+24,Metoprolol 100mg,Capsule,259.67,Sun Pharma
+25,Montelukast 100mg,Tablet,84.89,Lupin
+26,Fluticasone 500mg,Injection,302.24,Abbott
+27,Gabapentin 500mg,Injection,269.27,Cipla
+28,Simvastatin 500mg,Tablet,344.04,Mankind
+29,Montelukast 500mg,Syrup,64.66,Abbott
+30,Omeprazole 250mg,Tablet,477.37,Mankind
+31,Azithromycin 100mg,Ointment,457.19,Mankind
+32,Prednisone 500mg,Ointment,308.4,Lupin
+33,Metoprolol 100mg,Ointment,477.21,Cipla
+34,Doxycycline 250mg,Injection,19.54,Alkem
+35,Celecoxib 250mg,Capsule,38.38,Sun Pharma
+36,Ibuprofen 500mg,Injection,409.85,Lupin
+37,Atorvastatin 500mg,Injection,473.96,Lupin
+38,Pantoprazole 500mg,Ointment,217.34,Dr. Reddy
+39,Hydrochlorothiazide 500mg,Capsule,359.34,Abbott
+40,Simvastatin 500mg,Syrup,224.67,Zydus
+41,Metformin 100mg,Capsule,41.37,Cipla
+42,Cephalexin 500mg,Capsule,298.34,Cipla
+43,Ibuprofen 500mg,Tablet,122.18,Cipla
+44,Meloxicam 250mg,Tablet,261.94,Mankind
+45,Simvastatin 250mg,Capsule,274.22,Zydus
+46,Cetirizine 250mg,Injection,103.3,Sun Pharma
+47,Simvastatin 250mg,Syrup,217.55,Zydus
+48,Meloxicam 500mg,Tablet,339.95,Sun Pharma
+49,Amoxicillin 250mg,Syrup,402.29,Sun Pharma
+50,Cetirizine 100mg,Capsule,272.78,Lupin
+51,Tramadol 100mg,Syrup,236.69,Sun Pharma
+52,Clonazepam 500mg,Tablet,34.79,Cipla
+53,Ibuprofen 100mg,Capsule,209.14,Zydus
+54,Azithromycin 250mg,Tablet,90.67,Cipla
+55,Gabapentin 250mg,Injection,149.77,Zydus
+56,Atorvastatin 100mg,Syrup,116.67,Cipla
+57,Cephalexin 500mg,Ointment,39.87,Alkem
+58,Amoxicillin 100mg,Ointment,243.63,Lupin
+59,Amoxicillin 500mg,Tablet,427.16,Sun Pharma
+60,Doxycycline 100mg,Capsule,207.85,Dr. Reddy
+61,Cephalexin 500mg,Tablet,313.5,Abbott
+62,Simvastatin 500mg,Ointment,266.16,Mankind
+63,Azithromycin 500mg,Syrup,126.96,Abbott
+64,Atorvastatin 500mg,Syrup,234.04,Sun Pharma
+65,Paracetamol 250mg,Ointment,499.24,Sun Pharma
+66,Ibuprofen 500mg,Capsule,257.88,Lupin
+67,Hydrochlorothiazide 250mg,Tablet,440.84,Alkem
+68,Amlodipine 100mg,Injection,418.54,Mankind
+69,Doxycycline 500mg,Ointment,13.83,Mankind
+70,Hydrochlorothiazide 500mg,Tablet,470.08,Lupin
+71,Pantoprazole 100mg,Tablet,373.78,Lupin
+72,Pantoprazole 250mg,Ointment,113.21,Alkem
+73,Azithromycin 500mg,Syrup,257.65,Mankind
+74,Celecoxib 100mg,Tablet,320.8,Mankind
+75,Amoxicillin 100mg,Syrup,387.85,Mankind
+76,Omeprazole 500mg,Injection,280.32,Abbott
+77,Ciprofloxacin 100mg,Tablet,46.87,Lupin
+78,Ciprofloxacin 100mg,Syrup,295.43,Lupin
+79,Tramadol 100mg,Tablet,161.05,Cipla
+80,Celecoxib 250mg,Capsule,344.21,Sun Pharma
+81,Metoprolol 500mg,Injection,487.18,Lupin
+82,Hydrochlorothiazide 100mg,Capsule,488.34,Lupin
+83,Celecoxib 250mg,Tablet,97.89,Alkem
+84,Fluticasone 250mg,Capsule,140.73,Sun Pharma
+85,Gabapentin 100mg,Injection,118.99,Zydus
+86,Metoprolol 250mg,Capsule,119.23,Dr. Reddy
+87,Gabapentin 250mg,Syrup,433.53,Mankind
+88,Metoprolol 500mg,Ointment,205.84,Alkem
+89,Paracetamol 100mg,Syrup,97.5,Mankind
+90,Amoxicillin 100mg,Ointment,222.94,Alkem
+91,Tramadol 500mg,Ointment,66.67,Dr. Reddy
+92,Pantoprazole 100mg,Injection,10.83,Dr. Reddy
+93,Metoprolol 250mg,Tablet,474.95,Alkem
+94,Doxycycline 250mg,Tablet,362.68,Mankind
+95,Azithromycin 250mg,Injection,169.83,Mankind
+96,Ciprofloxacin 100mg,Capsule,216.02,Abbott
+97,Simvastatin 500mg,Capsule,311.6,Mankind
+98,Gabapentin 500mg,Tablet,158.9,Dr. Reddy
+99,Tramadol 500mg,Ointment,330.81,Zydus
+100,Clonazepam 250mg,Capsule,260.48,Lupin
+101,Simvastatin 100mg,Syrup,262.57,Alkem
+102,Ibuprofen 100mg,Syrup,120.07,Dr. Reddy
+103,Atorvastatin 100mg,Tablet,129.97,Zydus
+104,Doxycycline 100mg,Injection,213.08,Dr. Reddy
+105,Levothyroxine 500mg,Injection,252.24,Dr. Reddy
+106,Atorvastatin 500mg,Tablet,447.4,Sun Pharma
+107,Montelukast 250mg,Capsule,96.18,Zydus
+108,Amoxicillin 500mg,Capsule,459.56,Sun Pharma
+109,Clonazepam 100mg,Injection,337.11,Alkem
+110,Montelukast 250mg,Ointment,409.35,Abbott
+111,Prednisone 500mg,Injection,449.63,Zydus
+112,Clonazepam 250mg,Capsule,421.53,Mankind
+113,Montelukast 500mg,Injection,317.11,Mankind
+114,Clonazepam 100mg,Syrup,124.9,Alkem
+115,Losartan 500mg,Tablet,77.8,Dr. Reddy
+116,Gabapentin 500mg,Capsule,356.15,Sun Pharma
+117,Tramadol 250mg,Syrup,275.88,Abbott
+118,Amoxicillin 100mg,Injection,200.84,Cipla
+119,Meloxicam 500mg,Injection,243.72,Alkem
+120,Amlodipine 250mg,Injection,273.73,Dr. Reddy
+121,Amoxicillin-Clavulanate 100mg,Syrup,223.56,Cipla
+122,Gabapentin 250mg,Injection,364.85,Zydus
+123,Hydrochlorothiazide 100mg,Ointment,271.72,Abbott
+124,Cephalexin 500mg,Tablet,51.13,Abbott
+125,Atorvastatin 250mg,Capsule,34.64,Abbott
+126,Losartan 100mg,Injection,170.15,Abbott
+127,Pantoprazole 250mg,Syrup,419.11,Zydus
+128,Paracetamol 500mg,Ointment,35.52,Alkem
+129,Cetirizine 500mg,Tablet,392.8,Cipla
+130,Montelukast 100mg,Capsule,107.69,Cipla
+131,Doxycycline 100mg,Capsule,71.85,Sun Pharma
+132,Cephalexin 100mg,Injection,352.74,Alkem
+133,Omeprazole 500mg,Ointment,482.23,Sun Pharma
+134,Montelukast 100mg,Syrup,62.97,Cipla
+135,Hydrochlorothiazide 250mg,Ointment,341.9,Abbott
+136,Gabapentin 500mg,Capsule,47.24,Dr. Reddy
+137,Metformin 500mg,Syrup,426.64,Sun Pharma
+138,Fluticasone 500mg,Tablet,180.13,Abbott
+139,Simvastatin 250mg,Tablet,257.92,Alkem
+140,Paracetamol 250mg,Injection,61.71,Alkem
+141,Lisinopril 250mg,Capsule,223.39,Mankind
+142,Doxycycline 500mg,Injection,237.79,Mankind
+143,Losartan 100mg,Tablet,146.67,Zydus
+144,Cetirizine 250mg,Ointment,309.06,Abbott
+145,Losartan 100mg,Injection,426.97,Lupin
+146,Amoxicillin-Clavulanate 100mg,Syrup,400.94,Alkem
+147,Pantoprazole 500mg,Syrup,282.34,Dr. Reddy
+148,Ibuprofen 100mg,Injection,249.4,Dr. Reddy
+149,Levothyroxine 250mg,Injection,229.61,Cipla
+150,Ibuprofen 250mg,Capsule,208.16,Dr. Reddy
